@@ -1,5 +1,6 @@
 
 [build]
+  base = "melis"
   command = "npm run build"
   publish = "dist"
 
